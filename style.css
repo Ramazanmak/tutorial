@@ -14,7 +14,10 @@ p{
     color:black;
 }
 
-
 article{
     color:black;
+}
+
+div{
+    margin:0;
 }
